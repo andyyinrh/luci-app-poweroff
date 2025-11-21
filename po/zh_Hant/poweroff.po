@@ -10,7 +10,7 @@ msgstr ""
 "X-Generator: Poedit 2.2.4\n"
 "Last-Translator: ystartgo <https://cloudsgo.org/>\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"Language: zh_tw\n"
+"Language: zh_Hant\n"
 
 msgid "PowerOff"
 msgstr "關機"
